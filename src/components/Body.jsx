@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext } from 'react';
 //context
 import { cryptoContext } from '../context/TopListContextProvider.jsx';
 //styles
