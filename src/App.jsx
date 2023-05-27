@@ -1,6 +1,6 @@
 import React from "react";
 //context
-import TopListContextProvider from "./context/topListContextProvider.jsx";
+import TopListContextProvider from "./context/TopListContextProvider.jsx";
 
 //layout
 import Home from "./layout/Home.jsx";
